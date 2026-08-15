@@ -1,0 +1,17 @@
+PIN SCANNER - GITHUB UPLOAD
+
+Upload every file in this folder to the ROOT of your GitHub repository.
+Select all files inside the folder at once.
+
+Required app files:
+- index.html
+- app.js
+- styles.css
+- manifest.webmanifest
+- sw.js
+- icon-192.png
+- icon-512.png
+
+UPLOAD-ME.txt is only instructions and does not have to be uploaded.
+
+After the files are on GitHub, enable GitHub Pages in Settings > Pages.
